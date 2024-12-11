@@ -1,7 +1,7 @@
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/hyeonjin-dot"/>
-</a>
+<!-- <a href="https://github.com/devxb/gitanimals"> -->
+<!--   <img src="https://render.gitanimals.org/farms/hyeonjin-dot"/> -->
+<!-- </a> -->
 <!--
 **hyeonjin-dot/hyeonjin-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
