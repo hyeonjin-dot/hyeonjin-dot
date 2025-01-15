@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![hyeonjin-dot's github stats](https://github-readme-stats.vercel.app/api?username=seonghoo1217&show_icons=true)
+<!-- ![hyeonjin-dot's github stats](https://github-readme-stats.vercel.app/api?username=seonghoo1217&show_icons=true) -->
